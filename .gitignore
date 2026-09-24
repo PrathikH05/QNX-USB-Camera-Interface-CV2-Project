@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.exe
+*.out
+*.map
+/.qnx/
+/.metadata/
+/.settings/
+/Debug/
+/Release/
+/build/
+captured_images/*
+!captured_images/.gitkeep
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
